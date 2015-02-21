@@ -1,4 +1,4 @@
-# Ets2-Telemetry-Libarary
+# Ets2-Telemetry-Library
 # About
 Ets2 Telemetry Library is based off code by funbit located at: https://github.com/Funbit/ets2-telemetry-server. It has been reworked into a c# COM library making it very easy to get data from the Euro Truck Simulator not only in c# but also other languages that support COM libaries.
 #usage
