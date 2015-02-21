@@ -46,3 +46,5 @@ var data = Ets2TelemetryDataReader.Instance.Read();
 ```
 
 inside of a timer tick event so we can change how often the information in the form is updated by changing the Interval of the timer.
+#License
+This Code is released under the Mit License
