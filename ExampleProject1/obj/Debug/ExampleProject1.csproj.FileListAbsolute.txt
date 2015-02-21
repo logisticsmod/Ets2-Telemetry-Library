@@ -1,0 +1,14 @@
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.csprojResolveAssemblyReference.cache
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.Properties.Resources.resources
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.csproj.GenerateResource.Cache
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.csprojResolveAssemblyReference.cache
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.Properties.Resources.resources
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.csproj.GenerateResource.Cache
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\bin\Debug\ExampleProject1.exe.config
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\bin\Debug\ExampleProject1.exe
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\bin\Debug\ExampleProject1.pdb
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\bin\Debug\EuroTruckSimulatorTelemetry.dll
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\bin\Debug\EuroTruckSimulatorTelemetry.pdb
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.exe
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.pdb
+D:\EuroTruckSimulatorTelemetry\ExampleProject1\obj\Debug\ExampleProject1.Form1.resources

@@ -1,0 +1,4 @@
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\bin\Debug\EuroTruckSimulatorTelemetry.dll
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\bin\Debug\EuroTruckSimulatorTelemetry.pdb
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.dll
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.pdb
